@@ -1,4 +1,13 @@
 ---
+permalink: /
+title: "About Me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Welcome to my academic homepage! I am an Assistant Teaching Professor in the Department of Geology & Environmental Science at the University of Pittsburgh.
 
 I am an Assistant Teaching Professor in the Department of Geology & Environmental Science at the University of Pittsburgh, where my research and teaching center on the health of aquatic ecosystems. My work examines nutrient cycling, harmful algal blooms, and eutrophication in lakes, reservoirs, and urban streams, with particular attention to how drinking water treatment practices influence downstream water quality and ecological function.
