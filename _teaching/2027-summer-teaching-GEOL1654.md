@@ -8,6 +8,8 @@ date: 2027-05-17
 location: "University of Pittsburgh, Pittsburgh, PA, USA"
 ---
 
+An intensive summer capstone course where students design and carry out an independent environmental research project from start to finish.
+
 **Course Overview**
 
 - Course number: GEOL 1654 Environmental Science Research Capstone
