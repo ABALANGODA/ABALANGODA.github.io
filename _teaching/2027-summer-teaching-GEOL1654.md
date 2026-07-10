@@ -22,4 +22,3 @@ location: "University of Pittsburgh, Pittsburgh, PA, USA"
 - Use statistical and data analysis tools to interpret results
 - Synthesize findings and develop evidence-based recommendations
 - Communicate your research through a final report and presentation
-
