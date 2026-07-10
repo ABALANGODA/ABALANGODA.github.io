@@ -1,4 +1,3 @@
-
 ---
 title: "GEOL 1654 Capstone Research"
 collection: teaching
@@ -10,22 +9,22 @@ location: "University of Pittsburgh, Pittsburgh, PA, USA"
 ---
 An intensive summer capstone course where students design and carry out an independent environmental research project from start to finish.
 
-<img src="../../images/teaching/GEOL1309-HorizontalWaterSampler2.jpg" width="500" alt="Students using a horizontal water sampler in the field">
+<img src="/images/teaching/GEOL1309-HorizontalWaterSampler2.jpg" width="500" alt="Students using a horizontal water sampler in the field">
 *Students using a horizontal water sampler during a field session*
 
-<img src="../../images/teaching/GEOL1309-SD2.jpg" width="500" alt="Students conducting fieldwork">
+<img src="/images/teaching/GEOL1309-SD2.jpg" width="500" alt="Students conducting fieldwork">
 *Fieldwork session*
 
-<img src="../../images/teaching/GEOL1641_AquaticinvertebratesSampling2.jpeg" width="500" alt="Students sampling aquatic invertebrates">
+<img src="/images/teaching/GEOL1641_AquaticinvertebratesSampling2.jpeg" width="500" alt="Students sampling aquatic invertebrates">
 *Students sampling aquatic invertebrates during a field session*
 
-<img src="../../images/teaching/IMG_7365.JPG" width="500" alt="Capstone fieldwork">
+<img src="/images/teaching/IMG_7365.JPG" width="500" alt="Capstone fieldwork">
 *Fieldwork activity*
 
-<img src="../../images/teaching/IMG_7382.JPG" width="500" alt="Capstone fieldwork">
+<img src="/images/teaching/IMG_7382.JPG" width="500" alt="Capstone fieldwork">
 *Fieldwork activity*
 
-<img src="../../images/teaching/IMG_7396.JPG" width="500" alt="Capstone fieldwork">
+<img src="/images/teaching/IMG_7396.JPG" width="500" alt="Capstone fieldwork">
 *Fieldwork activity*
 
 **Course Overview**
