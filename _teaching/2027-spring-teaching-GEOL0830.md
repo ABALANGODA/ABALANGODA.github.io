@@ -1,4 +1,3 @@
-
 ---
 title: "GEOL 0830: Water and Society: Sustainability, Scarcity, and Justice"
 collection: teaching
@@ -8,6 +7,8 @@ venue: "University of Pittsburgh, Department of Geology and Environmental Scienc
 date: 2027-01-12
 location: "University of Pittsburgh, Pittsburgh, PA, USA"
 ---
+
+A course examining the science, policy, and ethics of water resources, exploring how sustainability, scarcity, and justice intersect in water management around the world.
 
 **Course Overview**
 
